@@ -22,9 +22,7 @@
 ---
 
 ## ✨ Top Projects
-- 🔥 [Smart Classroom Management Software](https://github.com/nezaal/SCMS)
-- 🌍 [Climate Change Indicators Analysis](https://github.com/nezaal/climate-indicators)
-- 📂 [Task Tracker CLI](https://github.com/nezaal/task-tracker-cli)
+- 📂 [Task Tracker CLI](https://github.com/nezaal/task-tracker)
 
 ---
 
