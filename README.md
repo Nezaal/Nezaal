@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/[your-link](https://www.linkedin.com/in/nezaal-ahmad-711156240/))
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web)](https://yourwebsite.com)
 
