@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Nezaal Ahmad!
 
-🎓 BTech | AI/ML Student  
-💻 Passionate about Java, Python, AI, and Full-Stack Development  
-⚽ Footballer | 🎮 Gamer | 🧠 Psychology Enthusiast
+BTech | AI/ML Student  
+Fullstack developer
+Passionate and learning about AI/ML , web3
+Footballer | 🎮 Gamer | 🧠 Psychology Enthusiast
 
 ---
 
@@ -28,7 +29,6 @@
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nezaal-ahmad-711156240/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=web)](https://yourwebsite.com)
 
 ---
