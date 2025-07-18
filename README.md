@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Nezaal Ahmad!
 
-BTech | AI/ML Student  
-Fullstack developer
-Passionate and learning about AI/ML , web3
-Footballer | 🎮 Gamer | 🧠 Psychology Enthusiast
+BTech | AI/ML Student  <br>
+Fullstack developer<br>
+Passionate and learning about AI/ML , web3<br>
+Footballer | 🎮 Gamer | 🧠 Psychology Enthusiast<br>
 
 ---
 
