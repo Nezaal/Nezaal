@@ -17,13 +17,15 @@ Footballer | 🎮 Gamer | 🧠 Psychology Enthusiast<br>
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+
 ## 📊 GitHub Stats
 ![Nezaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nezaal&show_icons=true&theme=tokyonight)
 
 ---
 
-## ✨ Top Projects
-- 📂 [Task Tracker CLI](https://github.com/nezaal/task-tracker)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 ---
 
