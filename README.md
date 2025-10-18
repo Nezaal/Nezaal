@@ -59,12 +59,6 @@ Check more on my [GitHub Repositories](https://github.com/Nezaal).
 
 ---
 
-## 📈 GitHub Stats
-![Nezaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nezaal&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezaal&layout=compact&theme=radical)
-
----
-
 ## 🔥 Contributions / Activity
 ![Nezaal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nezaal&theme=radical)  
 ![Nezaal's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Nezaal&theme=react-dark)
