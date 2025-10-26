@@ -60,8 +60,12 @@ Check more on my [GitHub Repositories](https://github.com/Nezaal).
 ---
 
 ## 🔥 Contributions / Activity
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ![Nezaal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nezaal&theme=radical)  
-![Nezaal's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Nezaal&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nezaal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 ---
 
