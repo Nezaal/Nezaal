@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nezaal Ahmad
+# Nezaal Ahmad
 
 🌟 **Full-Stack Developer | Future AI/ML Enthusiast**  
 💻 Passionate about building web applications and learning new technologies  
